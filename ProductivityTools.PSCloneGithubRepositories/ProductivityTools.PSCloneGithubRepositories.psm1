@@ -24,6 +24,7 @@ function CloneRepositories($repositories)
 function GetRepositories($token)
 {
 	$GitHubUri="https://api.github.com/user/repos"
+	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 	$i=1;
 	do
 	{
