@@ -14,10 +14,10 @@ Module has two parameters:
 - TargetDirectory - place where all repositories will be cloned
 - Token - generated from GitHub settings page
 
-![alt text](Images/Diagram.png)
+![alt text](Documentation/Images/Diagram.png)
 
 ## Usage example
 
-![alt text](Images/CloneGithubRepositories-Example1.png)
+![alt text](Documentation/Images/CloneGithubRepositories-Example1.png)
 
 
