@@ -16,7 +16,7 @@ Module has two parameters:
 
 ![alt text](Images/Diagram.png)
 
-Module display progress of the copied repositories.
+## Usage example
 
 ![alt text](Images/CloneGithubRepositories-Example1.png)
 
