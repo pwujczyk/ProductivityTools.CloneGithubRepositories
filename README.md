@@ -1,7 +1,7 @@
 <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSCloneGithubRepositories/">
 <img src="https://powershellgallery.com/Content/Images/Branding/packageDefaultIcon.svg " width="25" height="25" align="right"></a>
 
-# ProductivityTools.PSCloneGithubRepositories
+# ProductivityTools.PSCloneGitHubRepositories
 
 Module downloads all GitHub repositories from given account to provided directory. To do it first it connects to GitHub using its API and then iterate through all returned repositories.
 
@@ -14,10 +14,10 @@ Module has two parameters:
 - TargetDirectory - place where all repositories will be cloned
 - Token - generated from GitHub settings page
 
-![alt text](Documentation/Images/Diagram.png)
+![alt text](Images/Diagram.png)
 
 ## Usage example
 
-![alt text](Documentation/Images/CloneGithubRepositories-Example1.png)
+![alt text](Images/CloneGithubRepositories-Example1.png)
 
 
