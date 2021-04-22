@@ -28,9 +28,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="ProductivityTools.PSCloneGithubRepositories.psd1" />
-    <Compile Include="ProductivityTools.PSCloneGithubRepositories.psm1" />
-    <Compile Include="ProductivityTools.PSCloneGithubRepositories.tests.ps1" />
+    <Compile Include="ProductivityTools.CloneGithubRepositories.psd1" />
+    <Compile Include="ProductivityTools.CloneGithubRepositories.psm1" />
     <Compile Include="Runner.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
