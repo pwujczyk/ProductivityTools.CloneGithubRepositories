@@ -1,7 +1,17 @@
-<a href="https://www.powershellgallery.com/packages/ProductivityTools.PSCloneGithubRepositories/">
-<img src="https://powershellgallery.com/Content/Images/Branding/packageDefaultIcon.svg " width="25" height="25" align="right"></a>
+<!--Category:GAS--> 
+ <p align="right">
+    <a href="http://productivitytools.top/"><img src="Images/Header/ProductivityTools_green_40px_2.png" /><a> 
+    <a href="https://github.com/pwujczyk/ProductivityTools.CloneGithubRepositories"><img src="Images/Header/Github_border_40px.png" /></a>
+        <a href="https://www.powershellgallery.com/packages/ProductivityTools.CloneGithubRepositories/"><img src="Images/Header/Powershell_border_40px.png" /></a>
+</p>
+<p align="center">
+    <a href="http://http://productivitytools.tech/">
+        <img src="Images/Header/LogoTitle_green_500px.png" />
+    </a>
+</p>
 
-# ProductivityTools.PSCloneGitHubRepositories
+
+# Clone GitHub Repositories
 
 Module downloads all GitHub repositories from given account to provided directory. To do it first it connects to GitHub using its API and then iterate through all returned repositories.
 
